@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 map.html
 <html>
     <head>
@@ -121,7 +122,7 @@ seashore.html
     </body>
 </html>
 
-
+```
 
 ## OUTPUT
 ![alt text](<Screenshot 2025-09-26 211943-1.png>)
