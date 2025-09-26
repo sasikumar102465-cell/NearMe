@@ -26,13 +26,16 @@ Execute the programs and publish them.
 
 ## CODE
 map.html
+<html>
+    <head>
+        <title>map</title>
+    </head>
+    <body>
+        <center>
+        <h1>RAMESWARAM-SASIKUMAR S(25015350)</h1>
+        </center>
 
-<body>
-    <center>
-    <h1>RAMESWARAM-SASIKUMAR S(25015350)</h1>
-    </center>
-</body>
-<img src="Screenshot 2025-09-20 141913.png" usemap="#image-map">
+        <img src="Screenshot 2025-09-20 141913.png" usemap="#image-map">
 
 
 <map name="image-map">
@@ -42,7 +45,8 @@ map.html
     <area target="" alt="The Residency Towers" title="The Residency Towers" href="residencytowers.html" coords="358,231,607,423" shape="rect">
     <area target="" alt="Rameswaram Fishing Harbour and Boat Jetty" title="Rameswaram Fishing Harbour and Boat Jetty" href="fishing harbour" coords="1180,496,1458,611,1193,611,1129,533,1256,437,1507,532,1460,613,1198,609" shape="poly">
 </map>
-
+</body>
+</html>
 AGchurch.html
 
 <html>
